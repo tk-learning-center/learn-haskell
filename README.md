@@ -1,7 +1,1 @@
-# learn-haskell
-
-- [Basics](./basics.hs)
-- [Types](./types.hs)
-- [Function Type](./function_type.hs)
-- [Polymorphic Functions](./polymorphic_functions.hs)
-- [Overloaded Functions](./overloaded_functions.hs)
+moved to the [programming-languages repository](https://github.com/leandrotk/programming-language-theory/tree/master/language-learning/haskell)
